@@ -40,7 +40,7 @@ You'll find historical CAD-JPY exchange rate data in this notebook, as well as t
 
 #### Linear Regression Forecasting
 
-A Scikit-Learn linear regression model to forecast CAD/JPY returns with *lagged* CAD/JPY futures returns and categorical calendar seasonal factors is included in this notebook (e.g., day-of-week or week-of-year seasonal effects).
+A Scikit-Learn linear regression model to forecast CAD/JPY returns with *lagged* CAD/JPY futures returns and categorical calendar seasonal factors is included in this notebook.
 
 * Data preparation (creating returns and lagged returns, and splitting the data into training and testing data)
 
